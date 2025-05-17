@@ -20,7 +20,7 @@ This is an older project from my early journey in data science, focused on under
 Random Forest performed best in terms of accuracy, precision, and recall.
 
 **Accuracy:** 0.98  
-**Precision:** 0.90
+**Precision:** 0.90  
 **Recall:** 0.92
 
 ### Model Performance Visualization
