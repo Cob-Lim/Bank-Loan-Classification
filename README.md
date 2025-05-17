@@ -25,7 +25,7 @@ Random Forest performed best in terms of accuracy, precision, and recall.
 
 ### Model Performance Visualization
 
-![Model Results](./results/performance.png)  
+![Model Results](./Bank_Loan_Classification_Results.png)
 
 ## Key Variables and Why They Matter
 
